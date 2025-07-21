@@ -1,6 +1,6 @@
-# Welcome to Danfe Xpress
+# Welcome to Danfe Express
 
-**Danfe Xpress** is your trusted partner for fast, reliable parcel delivery across Nepal. We cater to businesses and individuals with top-notch shipping services, ensuring your shipments arrive on time and in perfect condition.
+**Danfe Express** is your trusted partner for fast, reliable parcel delivery across Nepal. We cater to businesses and individuals with top-notch shipping services, ensuring your shipments arrive on time and in perfect condition.
 
 ## Our Services
 - **Domestic Delivery**: Fast and reliable delivery across Nepal.
@@ -30,4 +30,4 @@
 ## Contact Us
 - [Website](https://danfe.com.np/) | [Facebook](https://www.facebook.com/danfexpress/) | [Instagram](https://www.instagram.com/danfexpress/)
 
-Thank you for choosing **Danfe Xpress** – we’re here to serve your shipping needs!
+Thank you for choosing **Danfe Express** – we’re here to serve your shipping needs!
